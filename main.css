@@ -1,0 +1,61 @@
+.p1{ 
+	color:#BA55D3;
+	font-size:40px; /*размер шрифта*/
+	font-family:Arial; /*стиль шрифта
+*/
+
+}
+.p2{
+	color:#FF4500;
+	font-size:30px;
+	font-family: 'Pacifico', cursive;
+}
+.p3{
+	color:#FFD700; /*цвет шрифта*/
+	font-size:50px;
+	font-family:Arial;
+}
+.div1{
+	width:30%; /*ширина*/
+	margin:auto; /*внешний отступ*/
+}
+.div2{
+	width:40%; 
+	margin:auto; 
+}
+.div3{
+	width:20%; 
+	margin:auto; 
+}
+.a1{
+	text-decoration:none; /*уберает нижнее подчеркивания*/
+	font-size:30px;
+}
+.a2 {
+	font-size:60px; 
+	font-family: 'Mansalva', cursive;
+	max-width:100%; /*класс*/
+	height:auto;
+	display:block;
+}
+
+.divv{
+	width:40%; 
+	margin:auto;
+	background-color:gold; /*цвет страницы */
+	font-family:Arial;
+}
+.img2{
+	width:300px;
+	margin:auto;
+}
+.a3{
+	text-decoration:none;
+	color:gray;
+	display:block;
+	margin:20px 0;
+	width:400%;
+	font-size:100px;
+}
+
+
